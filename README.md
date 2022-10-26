@@ -1,3 +1,3 @@
 # Flipr-Assignment
 Intern Assignment Files
-Go to src -> main -> java -> com
+Go to src -> main -> java
